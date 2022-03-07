@@ -22,13 +22,13 @@ var javascript = {
     })
   },
 }
-javascript.printLibrary()   /* eai khane amader output dorker javascript loves react, javascript loves angular and veu
-                            but amader out put asche :undefined loves react
-                            es6/arrow function.js:21
-                            undefined loves angular
-                            es6/arrow function.js:21
-                            undefined loves veu
-                            es6/arrow function.js:21  */
+javascript.printLibrary()     /* eai khane amader output dorker javascript loves react, javascript loves angular and veu
+                                                but amader out put asche :undefined loves react
+                                                es6/arrow function.js:21
+                                                undefined loves angular
+                                                es6/arrow function.js:21
+                                                undefined loves veu
+                                                es6/arrow function.js:21  */
 
 var javascript = {
   name : "javascript",
